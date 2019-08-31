@@ -1,8 +1,7 @@
 package operations;
 
 public class BubbleSort {
-	
-	public int[] sort(int arr[]) {
+	 public int[] sort(int arr[]) {
 		
 		int n = arr.length;
 		
